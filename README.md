@@ -8,6 +8,7 @@ Two calculators prepared in JavaScript (ES6) as the part of the Coders Lab cours
 
 # Technologies
 * JS (ES6)
+* jQuery
 * SASS
 * WebPack
 * HTML
