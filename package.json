@@ -4,7 +4,6 @@
   "description": "Two calculators prepared in JavaScript (ES6) as the part of the Coders Lab course.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot -d",
     "start:prod": "webpack"
   },
