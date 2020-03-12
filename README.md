@@ -1,6 +1,11 @@
 # Binary and decimal calculator (Workshop-4)
 Two calculators prepared in JavaScript (ES6) as the part of the Coders Lab course.
 
+![Project screenshot](/development/images/project_screen.jpg)
+
+# Live demo
+https://bartoszkalota.github.io/Binary-and-decimal-calculator/
+
 # Information
 * The project includes two 8-digit calculators:
     * To use the **binary calculator** you just click on a bit to change the number.
