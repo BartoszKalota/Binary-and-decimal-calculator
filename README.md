@@ -1,5 +1,5 @@
 # Binary and decimal calculator (Workshop-4)
-Two calculators prepared in i.a.: JS (ES6), jQuery, and SASS as the part of the Coders Lab course.
+Two calculators prepared in i.a.: JS (ES6), jQuery, and SCSS as the part of the Coders Lab course.
 
 ![Project screenshot](/development/images/project_screen.jpg)
 
@@ -14,6 +14,6 @@ https://bartoszkalota.github.io/Binary-and-decimal-calculator/
 # Technologies
 * JS (ES6)
 * jQuery
-* SASS
+* SCSS
 * WebPack
 * HTML
