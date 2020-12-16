@@ -1,10 +1,11 @@
 # Binary and decimal calculator (Workshop-4)
 Two calculators prepared in i.a.: JS (ES6), jQuery, and SCSS as the part of the Coders Lab course.
 
-![Project screenshot](/development/images/project_screen.jpg)
-
 # Live demo
 https://bartoszkalota.github.io/Binary-and-decimal-calculator/
+
+# Video demo
+[![Watch the video](./development/images/video-demo.jpg)](https://youtu.be/j8vOY2Dq-oA)
 
 # Information
 * The project includes two 8-digit calculators:
